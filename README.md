@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @masimkhan-dev
+- 👀 I’m interested in web development, software engineering, and continuous learning.
+- 🌱 I’m currently learning Python, DataBase, and cybersecurity.
+- 💞️ I’m looking to collaborate on open-source projects related to web development.
+- 📫 How to reach me: mail me masimkhan.dev@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love exploring new technologies and experimenting with different programming languages.
