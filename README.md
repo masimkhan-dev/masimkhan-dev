@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @masimkhan-dev
-- 👀 I’m interested in web development, software engineering, and continuous learning.
-- 🌱 I’m currently learning Python, DataBase, and datascience
-- 💞️ I’m looking to collaborate on open-source projects related to web development.
-- 📫 How to reach me: mail me masimkhan.dev@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love exploring new technologies and experimenting with different programming languages.
+👋 Hey, I'm **Asim Khan** (@masimkhan-dev)
+
+💻 Software Engineer who loves turning complex ideas into simple, meaningful digital experiences.
+
+🚀 Building products, solving real-world problems, and bringing ideas to life through code.
+
+🧠 Curious by nature. Builder by passion. Always evolving.
+
+🤝 Open to meaningful collaborations and exciting opportunities.
+
+📫 Reach me: masimkhan.dev@gmail.com
+
+⚡ Think. Build. Break. Learn. Repeat.
